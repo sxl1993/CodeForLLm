@@ -4,7 +4,7 @@ import torch.nn as nn
 
 class MultiHeadAttention(nn.Module):
     def __init__(self, hidden_dims, num_heads, atten_dropout=0.1) -> None:
-        super(MultiHeadAttention, self).__init__()
+        super().__init__()
         self.hidden_dims = hidden_dims
         self.num_heads = num_heads
         assert hidden_dims // num_heads
