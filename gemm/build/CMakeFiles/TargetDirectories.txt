@@ -1,0 +1,3 @@
+/workspace/CodeForLLm/gemm/build/CMakeFiles/example-app.dir
+/workspace/CodeForLLm/gemm/build/CMakeFiles/edit_cache.dir
+/workspace/CodeForLLm/gemm/build/CMakeFiles/rebuild_cache.dir
